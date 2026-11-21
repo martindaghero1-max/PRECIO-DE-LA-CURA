@@ -1,0 +1,2 @@
+Medios de cada escena (todos integrados):
+llegada=NODO_1, pasillo=NODO_2, expediente=NODO_3, quirofano=quirofano.gif, ultima-dosis=InShot, final-cura=Final_1, final-mentira=Final_2, final-disparo=Final_3, final-juntos=Final_4, despertar=DESPERTAR.
